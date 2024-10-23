@@ -2,7 +2,7 @@
   "name": "layout",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aomsinspu.github.io/layout",
+  "homepage": "https://aomsinspu.github.io/_layout",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
